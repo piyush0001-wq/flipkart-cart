@@ -21,7 +21,6 @@ function Cart() {
 
 
 
-  gettotalPrice();
   console.log(cartItems);
 
   function handleRemoveItem(id) {
