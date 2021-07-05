@@ -1,0 +1,58 @@
+[
+  {
+    "id": 1,
+    "title": "Fjallraven - Foldsack No. 1 Backpack, Fits 15 Laptops",
+    "price": 599,
+    "category": "male",
+    "size" : "L",
+    "image": "https://fakestoreapi.com/img/81fPKd-2AYL._AC_SL1500_.jpg"
+  },
+  {
+    "id": 2,
+    "title": "Mens Casual Premium Slim Fit T-Shirts ",
+    "price": 359,
+    "category": "male",
+    "size" : "L",
+    "image": "https://fakestoreapi.com/img/71-3HjGNDUL._AC_SY879._SX._UX._SY._UY_.jpg"
+  },
+  {
+    "id": 3,
+    "title": "Mens Cotton Jacket",
+    "price": 658,
+    "category": "male",
+    "size" : "S",
+    "image": "https://fakestoreapi.com/img/71li-ujtlUL._AC_UX679_.jpg"
+  },
+  {
+    "id": 4,
+    "title": "Mens Casual Slim Fit",
+    "price": 399,
+    "category": "male",
+    "size" : "M",
+    "image": "https://fakestoreapi.com/img/71YXzeOuslL._AC_UY879_.jpg"
+  },
+   {
+    "id": 15,
+    "title": "BIYLACLESEN Women's 3-in-1 Snowboard Jacket Winter Coats",
+    "price": 569,
+    "category": "female",
+    "size" : "S",
+    "image": "https://fakestoreapi.com/img/51Y5NI-I5jL._AC_UX679_.jpg"
+  },
+  {
+    "id": 16,
+    "title": "Lock and Love Women's Removable Hooded Faux Leather Moto Biker Jacket",
+    "price": 2995,
+    "category": "female",
+    "size" : "L",
+    "image": "https://fakestoreapi.com/img/81XH0e8fefL._AC_UY879_.jpg"
+  },
+  {
+    "id": 17,
+    "title": "Rain Jacket Women Windbreaker Striped Climbing Raincoats",
+    "price": 3999,
+    "category": "female",
+    "size" : "M",
+    "image": "https://fakestoreapi.com/img/71HblAHs5xL._AC_UY879_-2.jpg"
+  }
+]

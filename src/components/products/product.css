@@ -1,0 +1,36 @@
+.productsGrid img {
+  height: 200px;
+  object-fit: contain;
+}
+
+.productsGrid {
+  margin: 20px;
+  text-align: center;
+  display: flex;
+  justify-content: space-around;
+  align-items: center;
+  flex-wrap: wrap;
+  gap: 20px;
+}
+
+.productCard {
+  background: white;
+  width: 350px;
+  box-shadow: 0 20px 20px rgb(167, 166, 166);
+  padding: 10px;
+}
+
+.description {
+  display: flex;
+  justify-content: space-around;
+}
+
+.productCard button {
+  margin: 10px;
+  outline: none;
+  background: rgb(67, 142, 241);
+  border: none;
+  color: white;
+  padding: 10px 20px;
+  border-radius: 10px;
+}
